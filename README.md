@@ -121,3 +121,10 @@ make clean
    5. The converted 32-bit signed integer should be returned.
    6. This function needs to handle signed data.
    7. You may not use any string functions or libraries
+     
+
+
+
+
+[Coursera M4P6UNHAUU5F.pdf](https://github.com/HalimMansour/Expanded-Build-System-and-Memory/files/12022446/Coursera.M4P6UNHAUU5F.pdf)
+
